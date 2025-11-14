@@ -10,43 +10,43 @@
 
 **توسعه‌دهنده ارشد بک‌اند .NET** با بیش از **7 سال تجربه**، متخصص در **سیستم‌های مالی و پرداخت**.
 
-## 🔭 تمرکز فعلی
+ 🔭 تمرکز فعلی
 
 - 🏗️ ساخت **کیف پول دیجیتال متن‌باز** با **معماری میکروسرویس**
 - ⚡ پیاده‌سازی الگوهای **Event Sourcing** و **CQRS**
 - 💡 استفاده از **ابزارهای هوش مصنوعی** در توسعه نرم‌افزار (Claude، GitHub Copilot)
 
-## 💼 مهارت‌ها و تخصص‌ها
+ 💼 مهارت‌ها و تخصص‌ها
 
-### 🚀 بک‌اند و معماری
+ 🚀 بک‌اند و معماری
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- ⭐ **متخصص:** ASP.NET Core، C#، .NET 8، Entity Framework Core
+- ⭐ **متخصص:** ASP.NET Core، C، .NET 8، Entity Framework Core
 - 💪 **مسلط:** Clean Architecture، Microservices، Event-Driven Architecture
 - 🎯 **در حال کار با:** Event Sourcing، CQRS، Domain-Driven Design
 
-### 💾 پایگاه داده و ذخیره‌سازی
+ 💾 پایگاه داده و ذخیره‌سازی
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 - SQL Server، MongoDB، Redis
 
-### 📡 Message Brokers و DevOps
+ 📡 Message Brokers و DevOps
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - RabbitMQ، Kafka، Docker، Git، Azure DevOps
 
-### 🤖 توسعه با کمک هوش مصنوعی
+ 🤖 توسعه با کمک هوش مصنوعی
 - Claude، GitHub Copilot
 
-## 🚀 پروژه‌های برجسته
+ 🚀 پروژه‌های برجسته
 
-### 🏦 [کیف پول دیجیتال - میکروسرویس](https://github.com/Hoseinhayati/Wallet-API) 
+ 🏦 [کیف پول دیجیتال - میکروسرویس](https://github.com/Hoseinhayati/Wallet-API) 
 > سیستم کیف پول دیجیتال متن‌باز ساخته شده با معماری مدرن
 
 **تکنولوژی‌های استفاده شده:**
@@ -59,9 +59,9 @@
 - ✅ اصول Domain-Driven Design
 - ✅ کانتینریزه شدن کامل
 
-## 💼 تجربیات کاری
+ 💼 تجربیات کاری
 
-### 💼 توسعه‌دهنده ارشد بک‌اند | طراحی سیستم @ شرکت بیمه سامان
+ 💼 توسعه‌دهنده ارشد بک‌اند | طراحی سیستم @ شرکت بیمه سامان
 **تیر 1402 - اکنون (بیش از 2 سال)**
 *تهران، ایران*
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 💻 توسعه‌دهنده .NET @ مهرسپند
+ 💻 توسعه‌دهنده .NET @ مهرسپند
 **آبان 1400 - تیر 1402 (1 سال و 9 ماه)**
 *تهران، ایران*
 
@@ -89,7 +89,7 @@
 
 ---
 
-### 🌐 توسعه‌دهنده فول‌استک وب @ سایپا
+ 🌐 توسعه‌دهنده فول‌استک وب @ سایپا
 **مهر 1399 - مهر 1400 (1 سال)**
 *ایران*
 
@@ -101,7 +101,7 @@
 
 **تکنولوژی‌ها:** ASP.NET Core، React، Kendo UI، Stimulsoft، Oracle Forms
 
-## 🎓 تحصیلات
+ 🎓 تحصیلات
 
 **کارشناسی مهندسی نرم‌افزار کامپیوتر**
 *دانشگاه آزاد اسلامی* | 1392 - 1397
@@ -109,7 +109,7 @@
 **کاردانی مهندسی نرم‌افزار**
 *دانشگاه آزاد اسلامی* | 1389 - 1393
 
-## 📊 آمار گیت‌هاب
+ 📊 آمار گیت‌هاب
 
 <div align="center">
 
@@ -121,7 +121,7 @@
 
 </div>
 
-## 📫 راه‌های ارتباطی
+ 📫 راه‌های ارتباطی
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 </div>
 
-## 💡 فلسفه کاری
+ 💡 فلسفه کاری
 
 > "یادگیری مستمر، ساختن و به اشتراک‌گذاری دانش با جامعه"
 
