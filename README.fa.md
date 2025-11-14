@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=حسین%20حیاتی&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-🌍 فارسی | [English](./hoseinhayati.md)
+🌍 فارسی | [English](https://github.com/Hoseinhayati/Hoseinhayati/)
 
 </div>
 
@@ -141,7 +141,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hoseinhayati.Hoseinhayati)
 
-🌍 فارسی | [English](./hoseinhayati.md)
+🌍 فارسی | [English](https://github.com/Hoseinhayati/Hoseinhayati/)
 
 **از بازدید شما متشکرم! 😊**
 
