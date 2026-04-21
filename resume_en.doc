@@ -1,0 +1,112 @@
+﻿<html>
+<head><meta charset="utf-8">
+<style>
+body{font-family:'Segoe UI',Arial,sans-serif;color:#222;line-height:1.45;margin:30px 40px;font-size:10.5pt}
+h1{font-size:18pt;color:#1e3a5f;margin:0 0 2px}
+.role{font-size:11pt;color:#4a5568;margin:0 0 8px}
+.contact{font-size:9pt;color:#64748b;margin-bottom:14px}
+.contact a{color:#2563eb;text-decoration:none}
+h2{font-size:11pt;color:#2563eb;text-transform:uppercase;letter-spacing:1.5px;border-bottom:2px solid #2563eb;padding-bottom:3px;margin:16px 0 8px}
+.tag{display:inline-block;padding:1px 7px;background:#eff6ff;color:#2563eb;border-radius:3px;font-size:8.5pt;margin:1px}
+table{width:100%;border-collapse:collapse;font-size:9.5pt;margin:6px 0}
+td{padding:3px 0;vertical-align:top}
+td:first-child{font-weight:bold;color:#1e3a5f;width:140px;padding-right:10px}
+.jh{margin:0;font-size:10.5pt;color:#1e3a5f;font-weight:bold}
+.jp{font-size:9pt;color:#64748b;margin:0 0 2px}
+.jl{font-size:8.5pt;color:#94a3b8;font-style:italic;margin:0 0 4px}
+.pt{font-size:9.5pt;color:#2563eb;font-weight:bold;margin:8px 0 2px}
+ul{margin:2px 0 6px 18px;padding:0}
+li{font-size:9.5pt;padding:1px 0}
+.proj-title{font-size:10pt;color:#1e3a5f;font-weight:bold;margin:0 0 2px}
+.proj-desc{font-size:8.5pt;color:#64748b;font-style:italic;margin:0 0 3px}
+.soft-cols{column-count:2;column-gap:20px}
+.soft-cols li{font-size:9.5pt;break-inside:avoid}
+.edu-title{font-size:10pt;color:#1e3a5f;font-weight:bold;margin:0}
+.edu-info{font-size:9pt;color:#64748b;margin:0}
+.links a{color:#2563eb;font-size:9.5pt;text-decoration:none;margin-right:16px}
+</style></head>
+<body>
+<h1>Hosein Hayati</h1>
+<p class="role">Senior .NET Backend Developer | FinTech &amp; InsureTech</p>
+<p class="contact"><a href="mailto:hoseinhayati.ir@gmail.com">hoseinhayati.ir@gmail.com</a> &bull; +98-916-852-3283 &bull; <a href="https://hoseinhayati.ir">hoseinhayati.ir</a> &bull; <a href="https://github.com/hoseinhayati">github.com/hoseinhayati</a></p>
+
+<h2>About</h2>
+<p style="font-size:9.5pt">Senior Backend Developer with 7+ years of experience in enterprise-grade financial software (insurance &amp; fintech). Proven track record building digital wallet systems, payment gateways, and high-volume transaction processing using ASP.NET Core &mdash; processed <b>over 200 billion Tomans</b> in production. Expert in Clean Architecture, DDD, and scalable system design. <b>Open to remote opportunities.</b></p>
+
+<h2>Technical Skills</h2>
+<p><span class="tag">.NET</span> <span class="tag">C#</span> <span class="tag">ASP.NET Core</span> <span class="tag">Docker</span> <span class="tag">SQL Server</span> <span class="tag">Redis</span> <span class="tag">EF Core</span> <span class="tag">Clean Architecture</span> <span class="tag">DDD</span> <span class="tag">CQRS</span> <span class="tag">Microservices</span></p>
+<table>
+<tr><td>.NET</td><td>ASP.NET Core, DI, Middleware, Filters, Background Services, Options Pattern</td></tr>
+<tr><td>API</td><td>RESTful API, Swagger / OpenAPI</td></tr>
+<tr><td>ORM &amp; DB</td><td>EF Core (Code First, Migration), Dapper, T-SQL, Performance Tuning</td></tr>
+<tr><td>NoSQL</td><td>Redis (distributed cache), MongoDB (familiar)</td></tr>
+<tr><td>Logging</td><td>Serilog, ELK Stack, Seq, Grafana, Custom Metrics</td></tr>
+<tr><td>Architecture</td><td>Clean Architecture, DDD, CQRS, Repository, Unit of Work, Event-Driven</td></tr>
+<tr><td>DevOps</td><td>Git, Docker (Dockerfile, Compose), CI/CD (familiar)</td></tr>
+<tr><td>Frontend</td><td>JavaScript, React (familiar), Blazor</td></tr>
+<tr><td>AI Tools</td><td>Claude, GitHub Copilot</td></tr>
+<tr><td>Language</td><td>English &ndash; Intermediate</td></tr>
+</table>
+
+<h2>Experience</h2>
+<p class="jh">Senior Backend Developer &amp; System Design &mdash; Saman Insurance</p>
+<p class="jp">Jul 2023 &ndash; Present (2+ years)</p>
+<p class="jl">Tehran, Iran</p>
+<p class="pt">Digital Wallet System (Saman Insurance App)</p>
+<ul>
+<li>Architected and deployed a digital wallet using ASP.NET Core 6 (Monolithic, full production)</li>
+<li>Two wallet types (credit &amp; cash) with independent business logic per transaction type</li>
+<li>Deposit from payment gateway, referral credits, withdrawal, P2P transfers</li>
+<li>Robust concurrency controls to prevent race conditions in financial transactions</li>
+<li>Transaction monitoring dashboard; Serilog &amp; ELK Stack integration</li>
+<li>Processed over <b>200 billion Tomans</b> in transactions over 2 years</li>
+</ul>
+<p class="pt">Insurance Systems</p>
+<ul>
+<li><b>Gold Unit-Link</b> (Microservices, DDD, Event-Driven, .NET 6)</li>
+<li><b>Darmanat</b> (ASP.NET MVC, ADO.NET, .NET 4.5): new features, Grafana dashboards</li>
+</ul>
+<p><span class="tag">ASP.NET Core</span> <span class="tag">EF Core</span> <span class="tag">SQL Server</span> <span class="tag">Redis</span> <span class="tag">Serilog</span> <span class="tag">ELK</span> <span class="tag">Grafana</span></p>
+
+<p class="jh" style="margin-top:12px">.NET Developer &mdash; Mehrsepand</p>
+<p class="jp">Dec 2021 &ndash; Jul 2023 (1y 7m)</p>
+<p class="jl">Tehran, Iran</p>
+<ul>
+<li>Internal banking software with ASP.NET Core Web API, DDD architecture</li>
+<li>Entity Framework &amp; Dapper for DB communication; Flurl, Stimulsoft reporting</li>
+</ul>
+
+<p class="jh" style="margin-top:12px">Full-Stack Web Developer &mdash; Saipa</p>
+<p class="jp">Sep 2020 &ndash; Nov 2021 (1y)</p>
+<p class="jl">Tehran, Iran</p>
+<ul>
+<li>Led migration from Oracle Forms to ASP.NET Core + React; Kendo UI, Stimulsoft</li>
+</ul>
+
+<h2>Projects</h2>
+<p class="proj-title">Pishgamit &mdash; Tech News &amp; Learning Platform (pishgamit.ir)</p>
+<p class="proj-desc">Full-featured news/educational platform | .NET 10 | Production</p>
+<ul><li>ASP.NET Core (MVC + Blazor), admin dashboard, article &amp; Q&amp;A modules, Caching</li></ul>
+<p class="proj-title">Digital Wallet &mdash; Microservices (Open Source)</p>
+<p class="proj-desc">github.com/Hoseinhayati/Wallet-API</p>
+<ul><li>ASP.NET Core 8 + Clean Architecture + CQRS + Event-Driven + Docker Compose</li></ul>
+
+<h2>Soft Skills</h2>
+<div class="soft-cols"><ul>
+<li>Accountable, committed to deadlines</li>
+<li>Strong requirements analysis</li>
+<li>High-pressure experience</li>
+<li>Scrum/Agile workflows</li>
+<li>Onboarding &amp; documentation</li>
+<li>Remote-work capable</li>
+<li>Continuous learning mindset</li>
+<li>Fast learner of unfamiliar systems</li>
+</ul></div>
+
+<h2>Education</h2>
+<p class="edu-title">Bachelor&rsquo;s Degree &ndash; Software Engineering Technology</p>
+<p class="edu-info">Islamic Azad University, Mahshahr Branch | 2013&ndash;2017 | GPA: 15/20</p>
+
+<h2>Contact</h2>
+<p class="links"><a href="https://www.linkedin.com/in/hosein-hayati/">LinkedIn</a> <a href="https://t.me/hoseinhayati">Telegram</a> <a href="mailto:hoseinhayati.ir@gmail.com">Email</a> <a href="https://hoseinhayati.ir">Website</a></p>
+</body></html>
