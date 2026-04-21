@@ -1,148 +1,131 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=حسین%20حیاتی&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+# حسین حیاتی
+### توسعه‌دهنده ارشد بک‌اند .NET | فین‌تک و بیمه
 
-🌍 فارسی | [English](https://github.com/Hoseinhayati/Hoseinhayati/)
+📧 [hoseinhayati.ir@gmail.com](mailto:hoseinhayati.ir@gmail.com) | 📱 ۰۹۱۶۸۵۲۳۲۸۳ | 🌐 [hoseinhayati.ir](https://hoseinhayati.ir) | 💻 [github.com/hoseinhayati](https://github.com/hoseinhayati)
+
+فارسی | [English](https://github.com/Hoseinhayati/Hoseinhayati/)
+
+[PDF](https://hoseinhayati.ir/resume_fa.pdf) | [Word](https://hoseinhayati.ir/resume_fa.doc)
 
 </div>
 
-👋 سلام، من حسین هستم!
+**توسعه‌دهنده ارشد بک‌اند .NET** با بیش از **۷ سال تجربه** در حوزه‌های **بیمه، فین‌تک و سیستم‌های مالی**.
 
-**توسعه‌دهنده ارشد بک‌اند .NET** با بیش از **7 سال تجربه**، متخصص در **سیستم‌های مالی و پرداخت**.
+## درباره من
 
- 🔭 تمرکز فعلی
+توسعه‌دهنده ارشد بکاند با بیش از ۷ سال تجربه در طراحی، پیاده‌سازی و نگهداری سیستم‌های نرم‌افزاری سازمانی و مالی در حوزه‌های بیمه و فین‌تک.
+دارای تجربه عملی در ساخت سیستم‌های کیف‌پول دیجیتال، درگاه‌های پرداخت و پردازش تراکنش‌های مالی با حجم بالا — با سابقه **پردازش بیش از ۲۰۰ میلیارد تومان تراکنش** در محیط پروداکشن، بر پایه ASP.NET Core و معماری‌های Monolithic و Microservices.
+تسلط کافی به اصول Clean Architecture، Domain-Driven Design و طراحی سیستم‌هایی که هم قابل نگهداری‌اند، هم مقیاس‌پذیر. علاقه‌مند به یادگیری مستمر، پیگیری مباحث روز مهندسی نرم‌افزار و استفاده از ابزارهای هوش مصنوعی در فرآیند توسعه. **آماده همکاری ریموت.**
 
-- 🏗️ ساخت **کیف پول دیجیتال متن‌باز** با **معماری میکروسرویس**
-- ⚡ پیاده‌سازی الگوهای **Event Sourcing** و **CQRS**
-- 💡 استفاده از **ابزارهای هوش مصنوعی** در توسعه نرم‌افزار (Claude، GitHub Copilot)
+## مهارت‌ها
+`.NET` `C#` `Docker` `ASP.NET Core` `SQL Server` `Redis`
 
- 💼 مهارت‌ها و تخصص‌ها
+- **اکوسیستم .NET:** ASP.NET Core، Dependency Injection، Middleware، Filters، Background Services، Configuration، Options Pattern
+- **پایگاه داده و ORM:** Entity Framework Core (Code First، Migration، AsNoTracking)، Dapper، T-SQL، Performance Tuning، Index‌گذاری
+- **NoSQL و Cache:** Redis (کش توزیع‌شده)، MongoDB (آشنا)
+- **لاگینگ و مانیتورینگ:** Serilog، ELK Stack (Kibana)، Seq، Grafana، Custom Metrics
+- **معماری:** Clean Architecture، DDD، CQRS، Repository، Unit of Work، Microservices، Event-Driven
+- **ابزارها:** Git (Code Review، Merge Request)، Docker (Dockerfile)، CI/CD (آشنا)، Stimulsoft، Swagger/OpenAPI
+- **فرانت‌اند (آشنا):** JavaScript، React، Blazor
+- **ابزارهای هوش مصنوعی:** Claude، GitHub Copilot (جهت تسریع توسعه)
 
- 🚀 بک‌اند و معماری
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## پروژه‌ها
 
-- ⭐ **متخصص:** ASP.NET Core، C، .NET 8، Entity Framework Core
-- 💪 **مسلط:** Clean Architecture، Microservices، Event-Driven Architecture
-- 🎯 **در حال کار با:** Event Sourcing، CQRS، Domain-Driven Design
+### [پیشگامیت – پلتفرم خبری/آموزشی](https://pishgamit.ir)
+> سایت خبری و آموزشی در حوزه فناوری، ساخته‌شده با .NET 10 در محیط پروداکشن
 
- 💾 پایگاه داده و ذخیره‌سازی
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- معماری Monolithic کامل (MVC) با داشبورد مدیریتی جامع (Blazor)
+- ماژول مقاله‌نویسی مشابه ویرگول: ایجاد، ویرایش و انتشار توسط کاربران
+- ماژول پرسش‌وپاسخ مشابه Stack Overflow: طرح سؤال، پاسخ‌دهی و رأی‌گیری
+- سیستم نظردهی، Caching، Razor Pages و jQuery AJAX
 
-- SQL Server، MongoDB، Redis
+**تکنولوژی‌ها:** ASP.NET Core / .NET 10، Blazor، Entity Framework، SQL Server، Redis، jQuery
 
- 📡 Message Brokers و DevOps
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-- RabbitMQ، Kafka، Docker، Git، Azure DevOps
+### [Digital Wallet — میکروسرویس (متن‌باز)](https://github.com/Hoseinhayati/Wallet-API)
+> سیستم کیف‌پول دیجیتال متن‌باز با معماری مدرن
 
- 🤖 توسعه با کمک هوش مصنوعی
-- Claude، GitHub Copilot
+- ASP.NET Core 8 + Clean Architecture + CQRS
+- ارتباطات Event-Driven و اصول DDD
+- کانتینریزه شدن کامل با Docker Compose
 
- 🚀 پروژه‌های برجسته
+## تجربیات کاری
 
- 🏦 [کیف پول دیجیتال - میکروسرویس](https://github.com/Hoseinhayati/Wallet-API) 
-> سیستم کیف پول دیجیتال متن‌باز ساخته شده با معماری مدرن
-
-**تکنولوژی‌های استفاده شده:**
-- ASP.NET Core 8 + Clean Architecture
-- الگوی CQRS
-- Docker Compose
-
-**ویژگی‌ها:**
-- ✅ ارتباطات رویداد محور
-- ✅ اصول Domain-Driven Design
-- ✅ کانتینریزه شدن کامل
-
- 💼 تجربیات کاری
-
- 💼 توسعه‌دهنده ارشد بک‌اند | طراحی سیستم @ شرکت بیمه سامان
-**تیر 1402 - اکنون (بیش از 2 سال)**
+### توسعه‌دهنده ارشد بک‌اند | طراحی سیستم @ بیمه سامان
+**تیر ۱۴۰۲ – اکنون (بیش از ۲ سال)**
 *تهران، ایران*
 
-- 🏗️ **توسعه راهکارهای جامع پرداخت** شامل درگاه پرداخت درون‌برنامه‌ای و سیستم کیف پول دیجیتال
-- ⚡ **پیاده‌سازی تکنیک‌های پیشرفته مدیریت همزمانی**، افزایش قابلیت اطمینان و عملکرد سیستم
-- 🚀 **بهینه‌سازی عملکرد سیستم** از طریق مدل‌سازی استراتژیک داده و کش توزیع‌شده مبتنی بر Redis
-- 📊 **یکپارچه‌سازی Serilog** برای لاگ‌گیری ساختاریافته و استفاده از ELK Stack برای تحلیل لاگ در زمان واقعی
-- 💰 **پردازش بیش از 200 میلیارد تومان** تراکنش در طول 2 سال
-- 🎯 **ساخت با معماری Clean** و Entity Framework Core به عنوان توسعه‌دهنده منفرد برای زیرساخت مالی حیاتی
+#### کیف‌پول دیجیتال (اپلیکیشن بیمه سامان) — ASP.NET Core 6، Monolithic، پروداکشن کامل
+- طراحی، معماری و توسعه سیستم کیف‌پول دیجیتال اختصاصی از صفر تا پروداکشن
+- پشتیبانی از دو نوع کیف‌پول (اعتباری و نقدی) با منطق مستقل برای هر نوع تراکنش
+- پیاده‌سازی واریز از درگاه، واریز جایزه اعتباری (سیستم Referral)، برداشت و انتقال کیف‌به‌کیف (حقیقی و حقوقی)
+- توسعه سرویس مستقل اتصال به درگاه پرداخت و یکپارچه‌سازی با سیستم کیف‌پول
+- پیاده‌سازی مکانیزم‌های پیشرفته مدیریت همزمانی (Concurrency) جهت جلوگیری از Race Condition در تراکنش‌های حساس مالی
+- طراحی داشبورد پایش و گزارش‌گیری تراکنش‌ها برای تیم عملیات
+- یکپارچه‌سازی Serilog و ELK Stack برای لاگ‌های ساختاریافته و تحلیل لحظه‌ای
+- **پردازش بیش از ۲۰۰ میلیارد تومان تراکنش در طول ۲ سال**
 
-**تکنولوژی‌ها:** ASP.NET Core، Entity Framework Core، SQL Server، Redis، Serilog، ELK Stack
+#### مشارکت در توسعه سیستم‌های بیمه‌ای
+- **یونیت‌لینک طلا** (Microservices، DDD، Event-Driven، .NET 6): توسعه و نگهداری سرویس‌های سیستم بیمه‌ای مبتنی بر رویداد
+- **درمانت – پورتال بیمه تکمیلی سامان** (ASP.NET MVC، ADO.NET، .NET 4.5): پیاده‌سازی فیچرهای جدید، Custom Metrics و شخصی‌سازی داشبورد Grafana
+- آشنا با مفاهیم Microservices و سیستم‌های مبتنی بر Event (Event Sourcing، Domain Events)
+
+**تکنولوژی‌ها:** ASP.NET Core 6، Entity Framework Core، SQL Server، Redis، Serilog، ELK Stack، Grafana، ADO.NET
 
 ---
 
- 💻 توسعه‌دهنده .NET @ مهرسپند
-**آبان 1400 - تیر 1402 (1 سال و 9 ماه)**
+### توسعه‌دهنده .NET @ مهرسپند
+**آذر ۱۴۰۰ – تیر ۱۴۰۲ (۱ سال و ۸ ماه)**
 *تهران، ایران*
 
-- 🏦 **مشارکت در پیاده‌سازی و رفع اشکال** راهکارهای نرم‌افزاری بانکی داخلی
-- 🎯 **استفاده از معماری Domain-Driven Design (DDD)** برای لایه‌بندی مؤثر نرم‌افزار
-- 💾 **به‌کارگیری Entity Framework و Dapper** برای اتصالات کارآمد پایگاه داده
-- 🔗 **یکپارچه‌سازی سرویس‌های خارجی** با استفاده از Flurl، افزایش قابلیت‌های نرم‌افزاری
+- توسعه و نگهداری نرم‌افزارهای داخلی بانکی با ASP.NET Core Web API
+- استفاده از معماری Domain-Driven Design (DDD) برای لایه‌بندی مؤثر نرم‌افزار
+- به‌کارگیری Entity Framework و Dapper برای ارتباط کارآمد با پایگاه‌داده
+- یکپارچه‌سازی سرویس‌های خارجی با Flurl و استفاده از Stimulsoft برای گزارش‌گیری
 
-**تکنولوژی‌ها:** ASP.NET Core، Entity Framework، Dapper، DDD، Flurl
+**تکنولوژی‌ها:** ASP.NET Core، Entity Framework، Dapper، DDD، Flurl، Stimulsoft
 
 ---
 
- 🌐 توسعه‌دهنده فول‌استک وب @ سایپا
-**مهر 1399 - مهر 1400 (1 سال)**
-*ایران*
+### توسعه‌دهنده فول‌استک وب @ سایپا
+**شهریور ۱۳۹۹ – آبان ۱۴۰۰ (۱ سال)**
+*تهران، ایران*
 
-- 🔄 **تبدیل سیستم‌های داخلی سایپا** از Oracle Forms به اپلیکیشن وب مدرن
-- ⚙️ **توسعه بک‌اند** با استفاده از ASP.NET Core
-- 🎨 **ساخت فرانت‌اند** با React
-- 📊 **پیاده‌سازی Kend UI** برای رابط کاربری واکنش‌گرا
-- 📄 **استفاده از Stimulsoft** برای راهکارهای گزارش‌گیری
+- رهبری مهاجرت سیستم داخلی سایپا از Oracle Forms به اپلیکیشن وب مدرن با ASP.NET Core + React
+- پیاده‌سازی Kendo UI برای رابط کاربری و Stimulsoft برای گزارش‌گیری
 
-**تکنولوژی‌ها:** ASP.NET Core، React، Kendo UI، Stimulsoft، Oracle Forms
+**تکنولوژی‌ها:** ASP.NET Core، React، Kendo UI، Stimulsoft
 
- 🎓 تحصیلات
+## مهارت‌های نرم
 
-**کارشناسی مهندسی نرم‌افزار کامپیوتر**
-*دانشگاه آزاد اسلامی* | 1392 - 1397
+- مسئولیت‌پذیر و پایبند به تعهدات زمانی
+- توانایی تحلیل نیازمندی و ارائه پیشنهادات سازنده در فضای تیمی
+- تجربه کار تحت فشار بالا و مدیریت مؤثر شرایط بحرانی
+- آشنا با فرآیند Scrum و کار در تیم‌های Agile
+- توانایی Onboarding اعضای جدید تیم و تهیه مستندات فنی
+- توانایی دورکاری و ارائه گزارش منظم به تیم/مدیر
+- علاقه‌مند به یادگیری مستمر و پیگیری مباحث روز مهندسی نرم‌افزار
+- توانایی درک و یادگیری سریع Flow سیستم‌های ناآشنا
 
-**کاردانی مهندسی نرم‌افزار**
-*دانشگاه آزاد اسلامی* | 1389 - 1393
+## تحصیلات
 
- 📊 آمار گیت‌هاب
+**کارشناسی مهندسی تکنولوژی نرم‌افزار**
+*دانشگاه آزاد اسلامی واحد ماهشهر* | بهمن ۱۳۹۲ – شهریور ۱۳۹۶
+معدل: ۱۵
 
-<div align="center">
+## راه‌های ارتباطی
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoseinhayati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoseinhayati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoseinhayati&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
- 📫 راه‌های ارتباطی
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosein-hayati/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hoseinhayati)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoseinhayati.ir@gmail.com)
-
-</div>
-
- 💡 فلسفه کاری
-
-> "یادگیری مستمر، ساختن و به اشتراک‌گذاری دانش با جامعه"
+- [LinkedIn](https://www.linkedin.com/in/hosein-hayati/)
+- [Telegram](https://t.me/hoseinhayati)
+- [Email](mailto:hoseinhayati.ir@gmail.com)
 
 ---
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hoseinhayati.Hoseinhayati)
-
-🌍 فارسی | [English](https://github.com/Hoseinhayati/Hoseinhayati/)
-
-**از بازدید شما متشکرم! 😊**
+فارسی | [English](https://github.com/Hoseinhayati/Hoseinhayati/) | [PDF](https://hoseinhayati.ir/resume_fa.pdf) | [Word](https://hoseinhayati.ir/resume_fa.doc)
 
 </div>
