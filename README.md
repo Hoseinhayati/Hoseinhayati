@@ -13,7 +13,7 @@ English | [فارسی](README.fa.md)
 
 ---
 
-**I build systems that are not allowed to be wrong.**
+**I work on systems where mistakes are expensive.**
 
 Seven years on wallets, ledgers and insurance platforms — where a rounding error is a real person's real money.
 
