@@ -52,18 +52,8 @@
 
 | مخزن | چیست |
 | --- | --- |
-| [Wallet-API](https://github.com/Hoseinhayati/Wallet-API) | کیف‌پول دیجیتال متن‌باز — `.NET 8`، Clean Architecture، CQRS، DDD. همان الگوهای بالا، استخراج‌شده و عمومی‌شده. |
+| [Wallet-API](https://github.com/Hoseinhayati/Wallet-API) | کیف‌پول دیجیتال متن‌باز — `.NET 8`، دو سرویس (Wallet و Transaction)، Clean Architecture، CQRS با MediatR، DDD و تست واحد. یک پیاده‌سازی مرجع از این معماری، نه خودِ سیستم تولیدی. |
 
 ## در حال ساخت
 
 **`wallet-event-sourced`** — کیف‌پول دوم، عمداً روی Event Sourcing بازسازی می‌شود تا ببینم کجا جواب می‌دهد و کجا نه. Event store، پروجکشن‌ها و مسیج‌ها به‌عنوان دغدغه‌های درجه‌یک زیرساخت.
-
-یادگیری در فضای باز: من لجرهای مبتنی بر state را به تولید رسانده‌ام، نه event-sourced را. در README به‌صراحت نوشته می‌شود کدام تصمیم در تولید آزموده شده و کدام آزمایش است.
-
----
-
-<div align="center">
-
-[hoseinhayati.ir](https://hoseinhayati.ir) · [LinkedIn](https://linkedin.com/in/hosein-hayati) · تهران، ایران
-
-</div>
