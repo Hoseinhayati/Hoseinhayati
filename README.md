@@ -52,7 +52,7 @@ I use Clean Architecture, DDD and CQRS because in practice they keep the cost of
 
 | Repo | What it is |
 | --- | --- |
-| [Wallet-API](https://github.com/Hoseinhayati/Wallet-API) | Open-source digital wallet — .NET 8, Clean Architecture, CQRS, DDD. The patterns above, extracted and made public. |
+| [Wallet-API](https://github.com/Hoseinhayati/Wallet-API) | Open-source digital wallet — .NET 8, two services (Wallet, Transaction), Clean Architecture, CQRS with MediatR, DDD, unit tests. A reference implementation of the architecture, not the production system. |
 
 ## Currently building
 
@@ -67,3 +67,4 @@ Learning in the open: I have shipped state-based ledgers to production, not even
 [hoseinhayati.ir](https://hoseinhayati.ir) · [LinkedIn](https://linkedin.com/in/hosein-hayati) · Tehran, Iran
 
 </div>
+
