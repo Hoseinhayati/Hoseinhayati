@@ -7,7 +7,7 @@
 
 [English](README.md) | فارسی
 
-[PDF](https://hoseinhayati.ir/resume_fa.pdf) | [Word](https://hoseinhayati.ir/resume_fa.doc)
+[PDF](https://hoseinhayati.ir/resume_fa.pdf) | [Word](https://hoseinhayati.ir/resume_fa.docx)
 
 </div>
 
