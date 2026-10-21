@@ -17,16 +17,17 @@ I'm a backend engineer. I have been building with .NET since 2017, and I like ow
 
 ## What I have actually shipped
 
-### A high-volume transaction system · 2023–present
+### Digital wallet · Saman Insurance · 2023–present
 
 Sole developer, from a half-finished codebase to production. **200+ billion Toman** processed in roughly two years.
 
-- **An append-only transaction log as the single source of truth**: every derived value can be rebuilt from recorded transactions, never from a cached column.
-- **Value objects instead of primitives**, so invalid operations fail loudly at the domain boundary.
-- **Idempotent handling** of third-party callbacks and client retries: duplicate requests have no side effects.
-- **Concurrency control** on hot rows, added after a race condition surfaced in staging.
-- **Automated nightly consistency checks**, written after one manual investigation took three days.
-- Absorbed **10x growth** in volume through query tuning, Redis caching and background jobs; Serilog + ELK and an ops dashboard.
+- **Ledger as the single source of truth**: every balance is reconstructable from recorded transactions, never from a cached column.
+- **Money as a value object** (amount + currency + rules), not a bare `decimal`. Cross-currency addition throws; it does not silently miscalculate.
+- **Idempotency** across payment callbacks and user retries: duplicate gateway callbacks do not create duplicate money.
+- **Concurrency control** on balance mutation, added after a race condition duplicated funds in staging.
+- **Automated nightly reconciliation**, written the night a 50,000-Rial mismatch cost three days of manual checks.
+- Two wallet types (credit / cash), gateway deposits, referral credit, withdrawal, P2P transfer.
+- Absorbed **10x growth** in transaction volume through query tuning, Redis caching and background jobs; Serilog + ELK and an ops dashboard.
 - Handed the system over to a six-engineer team through a documentation sprint.
 
 ### [Pishgamit](https://pishgamit.com) · founder, sole engineer · since 2017
