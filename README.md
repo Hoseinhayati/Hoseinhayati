@@ -32,15 +32,15 @@ Sole developer, from a half-finished codebase to production. **200+ billion Toma
 
 ### [Pishgamit](https://pishgamit.com) · founder, sole engineer · since 2017
 
-A Persian technical publication I have run alone for nine years. 4,000+ articles, peak 157K monthly visits. Rebuilt from ASP.NET MVC onto .NET 8 with AI-assisted development and now running on .NET 10; day-to-day operations (SEO monitoring, publish scheduling, Telegram and Instagram) run with Claude. Nine years of maintenance taught me more about long-lived systems than any greenfield project ever did.
+A Persian technical publication I have run alone for nine years. 4,000+ articles, peak 157K monthly visits. Rebuilt from ASP.NET MVC onto .NET 8 with AI-assisted development and now running on .NET 10; day-to-day operations (SEO monitoring, publish scheduling, Telegram and Instagram) run with OpenCode. Nine years of maintenance taught me more about long-lived systems than any greenfield project ever did.
 
 ### Built with agentic coding
 
-I ship apps with Claude Code (plus Cursor), and I keep the parts an agent can't do: choosing the approach, checking dependencies and licences, deployment, debugging and review.
+I ship apps with OpenCode (plus Cursor), and I keep the parts an agent can't do: choosing the approach, checking dependencies and licences, deployment, debugging and review.
 
 - **[LifeBudget](https://lifebudget.hoseinhayati.ir/intro)**: my own web and Android budgeting app. Logs spending from bank SMS messages, tracks monthly and instalment credit separately, and has no foreign dependencies, so it works on Iran's national internet. ASP.NET Core, SQL Server, Kotlin.
 - **[MarketPulse](https://marketpulse.hoseinhayati.ir/intro)**: my own dollar and gold price monitor. Every 5 minutes it computes gold and coin premiums and the cheapest way to hold dollar value, and sends few, numeric Telegram alerts through a locked-down Cloudflare Worker (the server is in Iran). .NET 10, SQL Server, Cloudflare Workers.
-- **[hoseinhayati.ir](https://hoseinhayati.ir/en)**: this resume site. .NET 10, Razor Pages, bilingual RTL/LTR, built with Claude Code.
+- **[hoseinhayati.ir](https://hoseinhayati.ir/en)**: this resume site. .NET 10, Razor Pages, bilingual RTL/LTR, built with OpenCode.
 
 ## How I think about architecture
 
@@ -50,7 +50,7 @@ I use Clean Architecture, DDD and CQRS because in practice they keep the cost of
 
 ## Stack
 
-`C#` `.NET 10` `ASP.NET Core` `EF Core` `Dapper` `SQL Server` `MongoDB` `Redis` `RabbitMQ` `Docker` `Blazor` `Serilog` `ELK` `Grafana` `Claude Code`
+`C#` `.NET 10` `ASP.NET Core` `EF Core` `Dapper` `SQL Server` `MongoDB` `Redis` `RabbitMQ` `Docker` `Blazor` `Serilog` `ELK` `Grafana` `OpenCode`
 
 ## Repositories
 
